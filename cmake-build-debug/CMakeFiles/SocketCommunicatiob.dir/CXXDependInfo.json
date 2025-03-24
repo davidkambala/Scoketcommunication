@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug",
+	"dir-cur-src" : "/home/david/CLionProjects/SocketCommunicatiob",
+	"dir-top-bld" : "/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug",
+	"dir-top-src" : "/home/david/CLionProjects/SocketCommunicatiob",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/usr/include/opencv4"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug/CMakeFiles/SocketCommunicatiob.dir"
+}

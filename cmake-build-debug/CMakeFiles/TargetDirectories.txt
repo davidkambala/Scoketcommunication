@@ -1,0 +1,3 @@
+/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug/CMakeFiles/SocketCommunicatiob.dir
+/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/CLionProjects/SocketCommunicatiob/cmake-build-debug/CMakeFiles/rebuild_cache.dir
